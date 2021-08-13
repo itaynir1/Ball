@@ -1,6 +1,5 @@
 /*
 *Author - Itay Nir
-* 208988725
 * this program calculate the area and the cubage of ball.
  */
 
